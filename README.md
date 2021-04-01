@@ -4,13 +4,13 @@ EGU Hugo-Jean
 
 # Start the project 
 
-  npx pod-install ios 
-  
-ou
+yarn install
 
-  cd ios
+cd ios
 
-  pod install
+pod install
+
+cd ../
 
 npx react-native run-ios
 
