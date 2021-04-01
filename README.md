@@ -8,7 +8,7 @@ EGU Hugo-Jean
   
 ou
 
-  cd ios/ 
+  cd ios
 
   pod install
 
