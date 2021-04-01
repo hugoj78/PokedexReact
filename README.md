@@ -4,7 +4,13 @@ EGU Hugo-Jean
 
 # Start the project 
 
-npx pod-install ios
+  npx pod-install ios 
+  
+ou
+
+  cd ios/ 
+
+  pod install
 
 npx react-native run-ios
 
